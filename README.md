@@ -12,14 +12,6 @@ multi-class classification of Windows PE malware families using x86
 opcode sequences. Results are compared directly against the SVM, KNN, 
 and Decision Tree classifiers from Submission 4.
 
-## Payload Archive
-
-Due to GitHub file size limitations, the scripts, dataset, and output 
-archive is provided as a GitHub Release asset. Please download the ZIP 
-file from the **Releases** section of this repository:
-
-https://github.com/ArshdeepMCIT/Submission_5/releases/tag/submission_5
-
 ## Requirements
 
 - Python 3.11 or later
